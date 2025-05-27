@@ -74,7 +74,7 @@ class _Design2WidgetState extends State<Design2Widget> {
                             padding: const EdgeInsetsDirectional.fromSTEB(
                                 0.0, 130.0, 0.0, 0.0),
                             child: Text(
-                              'SOLARION',
+                              'GAEA',
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(

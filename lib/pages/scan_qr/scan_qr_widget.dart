@@ -95,7 +95,7 @@ class _ScanQrWidgetState extends State<ScanQrWidget> {
                                     padding: const EdgeInsetsDirectional.fromSTEB(
                                         0.0, 5.0, 0.0, 0.0),
                                     child: Text(
-                                      'Scan the barcode on the Solarion business card to view the vCard results. \n\nUse a barcode scanner on Chrome, Safari, or any other barcode scanning app.\n\n For Android users, you can try downloading the Solarion vCard from the Play Store.',
+                                      'Scan the barcode on the Gaea business card to view the vCard results. \n\nUse a barcode scanner on Chrome, Safari, or any other barcode scanning app.\n\n For Android users, you can try downloading the Gaea vCard from the Play Store.',
                                       textAlign: TextAlign.center,
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium

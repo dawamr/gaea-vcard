@@ -1,0 +1,1 @@
+{"inputs":["C:\\git\\gaea-vcard\\web\\*\\index.html","C:\\git\\gaea-vcard\\web\\flutter_bootstrap.js","C:\\flutter\\bin\\cache\\engine.stamp"],"outputs":["C:\\git\\gaea-vcard\\build\\web\\*\\index.html","C:\\git\\gaea-vcard\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}

@@ -1299,7 +1299,7 @@ class _Design1WidgetState extends State<Design1Widget> {
                                                                     0.0,
                                                                     10.0),
                                                         child: Text(
-                                                          'CNI Creative Centre (C3) Lantai 2, Jl. Puri Indah Raya No.1-3, Kec. Kembangan, Daerah Khusus Ibukota Jakarta 11610',
+                                                          'CNI Creative Centre (C3) Lantai 3, Jl. Puri Indah Raya No.1-3, Kec. Kembangan, Daerah Khusus Ibukota Jakarta 11610',
                                                           textAlign:
                                                               TextAlign.start,
                                                           style: FlutterFlowTheme
@@ -1320,11 +1320,11 @@ class _Design1WidgetState extends State<Design1Widget> {
                                                         onPressed: () async {
                                                           if (isWeb == true) {
                                                             await launchURL(
-                                                                'https://maps.app.goo.gl/gfZyyijh6KxHk8dG9');
+                                                                'https://maps.app.goo.gl/gDKN5WPJnPD16qGV7');
                                                           } else {
                                                             await launchMap(
                                                               address:
-                                                                  'CNI Creative Centre (C3) Lantai 2, Jl. Puri Indah Raya No.1-3, Kec. Kembangan, Daerah Khusus Ibukota Jakarta 11610',
+                                                                  'CNI Creative Centre (C3) Lantai 3, Jl. Puri Indah Raya No.1-3, Kec. Kembangan, Daerah Khusus Ibukota Jakarta 11610',
                                                               title: '',
                                                             );
                                                           }
@@ -1434,7 +1434,7 @@ class _Design1WidgetState extends State<Design1Widget> {
                                                       size: 26.0,
                                                     ),
                                                     Text(
-                                                      'PT. Gaea Solution Mobility',
+                                                      'PT Gaea Solusi Mobility',
                                                       style:
                                                           FlutterFlowTheme.of(
                                                                   context)
@@ -1476,7 +1476,7 @@ class _Design1WidgetState extends State<Design1Widget> {
                                                             .start,
                                                     children: [
                                                       Text(
-                                                        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pharetra urna sed elit ornare tincidunt. Sed accumsan facilisis nibh in accumsan. Aenean sit amet blandit dui, non sagittis augue.',
+                                                        'PT Gaea Solusi Mobility is a pioneering Indonesian technology firm driving innovation in sustainable logistics by leveraging electric mobility, operational intelligence, and integrated energy infrastructure.',
                                                         textAlign:
                                                             TextAlign.start,
                                                         style:
@@ -1504,7 +1504,7 @@ class _Design1WidgetState extends State<Design1Widget> {
                                                             Colors.transparent,
                                                         onTap: () async {
                                                           await launchURL(
-                                                              'https://solarion.co');
+                                                              'https://gaea.co.id');
                                                         },
                                                         child: Text(
                                                           'gaea.co.id',
